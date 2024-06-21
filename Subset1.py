@@ -12,4 +12,3 @@ def helper(ind,s,arr,n,result):
     helper(ind+1,s+arr[ind],arr,n,result)
     helper(ind+1,s,arr,n,result)
     return result 
-    

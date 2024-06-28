@@ -1,3 +1,4 @@
+#recursion
 n=int(input())
 def print_counting(n):
     if n==0: 

@@ -1,5 +1,5 @@
 
-n=int(input())
+n=int(input())# taking input 
 def print_counting(n):
     if n==0: 
         return 
